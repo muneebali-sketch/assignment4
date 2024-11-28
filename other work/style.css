@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxvXMbwvLro9b0z_ac_1DXF1aNMBtGWqzZg&s') ;
+    background-size: cover;        
+    background-position: center;
+}
